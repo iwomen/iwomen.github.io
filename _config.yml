@@ -27,6 +27,21 @@ paginate_path: "page/:num/"
 comment:
     disqus: brain-wash
     
+# duoshuo: 
+    
+# Social
+social:
+    weibo: 斋焉焉
+    github: iwomen
+    twitter: chinagcd
+    mail: yajshiwo@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
+
+
 #RSSread
 name:         Brain Wash  
 description:  A history of my brainwave.  
