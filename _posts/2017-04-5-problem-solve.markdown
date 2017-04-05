@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invalid GBK character "\xE2" 解决过程中的发现
-date: 2016-02-15 15:32:24.000000000 +09:00
+date: 2017-04-5 12:31:24.000000000 +09:00
 ---
 执行 $ bundle exec jekyll serve，之后出现这样的问题：
 ```
