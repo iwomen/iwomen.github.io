@@ -27,3 +27,7 @@ paginate_path: "page/:num/"
 comment:
     disqus: vno-jekyll
     
+#RSSread
+name:         Brain Wash  
+description:  A hirtory of my brainwave.  
+url:          http://yangaijun.com/ 
