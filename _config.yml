@@ -25,7 +25,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: brain-wash
     
 #RSSread
 name:         Brain Wash  
