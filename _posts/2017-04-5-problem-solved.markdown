@@ -3,7 +3,7 @@ layout: post
 title: 解决 Invalid GBK character "\xE2" 过程中的发现
 date: 2017-04-5 12:51:24.000000000 +09:00
 ---
-执行 $ bundle exec jekyll serve，之后出现这样的问题：
+执行``` $ bundle exec jekyll serve```，之后出现这样的问题：
 ```
   Conversion error: Jekyll::Converters::Scss encountered an error
   while converting 'css/main.scss':
