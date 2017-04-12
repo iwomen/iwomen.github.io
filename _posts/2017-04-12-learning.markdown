@@ -5,4 +5,4 @@ date: 2017-04-12 13:31:24.000000000 +09:00
 ---
 
 
-![learning](http://wx4.sinaimg.cn/large/825148c4ly1fejxb2f3guj21gh0prgnw.jpg)
+![学习](http://wx4.sinaimg.cn/large/825148c4ly1fejxb2f3guj21gh0prgnw.jpg)
