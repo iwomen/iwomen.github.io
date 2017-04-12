@@ -1,0 +1,8 @@
+---
+layout: post
+title: Learning how to learn (mindmap)
+date: 2017-04-12 13:31:24.000000000 +09:00
+---
+
+
+ {% img /images/learning how to learn.png %}
