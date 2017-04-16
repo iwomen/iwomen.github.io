@@ -1,5 +1,3 @@
-﻿# 2017-04-16-how-trump-becomes-president
-
 ---
 layout: post
 title： 【大师级说服力系列】川普怎么样才能成为美国总统
