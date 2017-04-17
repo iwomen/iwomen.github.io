@@ -1,8 +1,6 @@
-﻿
-
 ---
-layout： post
-title： 【大师级说服力系列】川普计划给ISIS戴紧箍
+layout: post
+title: 【大师级说服力系列】川普计划给ISIS戴紧箍
 date: 2017-04-17
 ---
 
