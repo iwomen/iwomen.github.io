@@ -4,6 +4,8 @@ title: 【大师级说服力】有胆就进来读，看你能否被说服
 date: 2017-04-21
 ---
 
+[原文：Scott Adams 发于2015/08/26][3]
+
 我预测川普将赢得候选人提名，读者并不同意，他们的理由是：
 
 >1.川普[需要40%的拉美裔选票][1]才能赢。 
@@ -83,3 +85,4 @@ date: 2017-04-21
 
   [1]: http://www.huffingtonpost.com/henry-fernandez/donald-trump-is-killing-the-republican-party_b_8037868.html
   [2]: http://www.huffingtonpost.com/henry-fernandez/donald-trump-is-killing-the-republican-party_b_8037868.html
+  [3]: http://blog.dilbert.com/post/127642643841/the-third-way-on-immigration-sort-of-a-trump
