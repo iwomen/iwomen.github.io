@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【大师级说服力】川普与[高德温法则][3]
+title: 【大师级说服力】川普与高德温法则
 date: 2017-04-24
 ---
 
@@ -22,6 +22,8 @@ date: 2017-04-24
 我想你已经在我的评论区看到一堆那样的东西。
 
 出版媒体界仍在继续播放他们无关宏旨的幻灯片。
+
+备注：[高德温法则][3]
 
 [1]: http://blog.dilbert.com/post/127793580186/trump-and-godwins-law
 [2]: http://www.businessinsider.com/donald-trumps-ex-wife-once-said-he-kept-a-book-of-hitlers-speeches-by-his-bed-2015-8
