@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 【大师级说服力】别让你的大脑成为跑马场
 date: 2017/04-24
@@ -6,7 +6,7 @@ date: 2017/04-24
 
 [原文：Scott Adms][1] 发于2015/08/28
 
-8月6日，Nate Silver在他的博客里预测川普只有2%的几率成为共和党候选人。Silver的预测基于历史节律，硬数据，而且听起来很合理。在预测这个工作上，他很拿手，也许是最好的那个。
+8月6日，Nate Silver在他的[博客][2]里预测川普只有2%的几率成为共和党候选人。Silver的预测基于历史节律，硬数据，而且听起来很合理。在预测这个工作上，他很拿手，也许是最好的那个。
 
 一周后，即8月13日，我发了那篇川普是“小丑天才”的博文——基于川普的工具包——预测川普会赢得共和党提名，并赢得大选。
 
@@ -66,3 +66,4 @@ date: 2017/04-24
 
 
   [1]: http://blog.dilbert.com/post/127791494211/nate-silver-gives-trump-2-chance-of-getting
+  [2]: https://fivethirtyeight.com/features/donald-trumps-six-stages-of-doom/
