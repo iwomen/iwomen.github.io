@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 【大师级说服力】开掉DEA领头人
 date: 2017-06-04
