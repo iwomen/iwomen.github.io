@@ -1,13 +1,12 @@
 ---
 date: '2017-07-09'
 playout: post
-sha: d1972d2d25bfd2cec1a67ea3395af3b308ae2cd7
+sha: 3cd7b306d27cd20e80692884ff4ed621b06c91e1
 slug: the-gender-card
 title: 【大师级说服力】不要轻易打性别牌
 info: 
 comment: 
-tags:
-  - 说服力
+tags: []
 categories: []
 published: false
 
