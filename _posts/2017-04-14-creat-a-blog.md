@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 什么力量让我创建个人独立博客？
+category: jekyll
 date: 2017-04-14
 ---
 
