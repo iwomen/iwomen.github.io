@@ -1,8 +1,18 @@
 ---
+date: '2017-07-09'
 playout: post
+sha: 84f72d08bb806ce733a70fba56fd312cc397e3fd
+slug: the-gender-card
 title: 【大师级说服力】不要轻易打性别牌
-date: 2017-07-09
+info: 
+comment: 
+tags: []
+categories:
+  - 大师级说服力
+published: false
+
 ---
+
 
 
  [原文：Scott  Adams  发于2016-01-20][1]
