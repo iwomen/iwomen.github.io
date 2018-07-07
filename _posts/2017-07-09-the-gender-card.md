@@ -1,14 +1,14 @@
 ---
-date: '2017-07-09'
-playout: post
-sha: 3cd7b306d27cd20e80692884ff4ed621b06c91e1
-slug: the-gender-card
-title: 【大师级说服力】不要轻易打性别牌
-info: 
-comment: 
-tags: []
 categories: []
+comment: 
+date: '2017-07-09'
+info: 
+playout: post
 published: false
+sha: 55a9f4c1c09e93ca809815ef63f604b95e4caba5
+slug: the-gender-card
+tags: []
+title: 【大师级说服力】不要轻易打性别牌
 
 ---
 
