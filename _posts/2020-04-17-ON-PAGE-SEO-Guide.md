@@ -27,7 +27,7 @@ tags: SEO 搜索引擎优化
 - 第七章 高级ON-PAGE SEO技巧
 
 ---
-##  &emsp;        第一章ON-PAGE SEO基础知识
+##  <center>第一章ON-PAGE SEO基础知识</center>
 
 
 ### 1.什么是On-Page SEO？
